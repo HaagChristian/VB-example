@@ -1,0 +1,14 @@
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\bin\Debug\net8.0\Demoproject_vb.exe
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\bin\Debug\net8.0\Demoproject_vb.deps.json
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\bin\Debug\net8.0\Demoproject_vb.runtimeconfig.json
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\bin\Debug\net8.0\Demoproject_vb.dll
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\bin\Debug\net8.0\Demoproject_vb.pdb
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.AssemblyInfoInputs.cache
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.AssemblyInfo.vb
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.dll
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\refint\Demoproject_vb.dll
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.pdb
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\Demoproject_vb.genruntimeconfig.cache
+C:\Users\chris\Meine Ablage\DHBW\Semester 5\C#\Abgabe\VB_Code\Demoproject_vb\Demoproject_vb\obj\Debug\net8.0\ref\Demoproject_vb.dll

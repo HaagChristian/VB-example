@@ -5,5 +5,4 @@
         <RootNamespace>Demoproject_vb</RootNamespace>
         <TargetFramework>net8.0</TargetFramework>
     </PropertyGroup>
-
 </Project>
